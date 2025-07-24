@@ -21,3 +21,17 @@ google-api-python-client
 google-auth
 google-auth-oauthlib
 google-auth-httplib2
+streamlit
+transformers
+torch
+sentence-transformers
+scikit-learn
+pandas
+numpy
+opencv-python-headless
+moviepy
+keybert
+librosa
+soundfile
+edge-tts
+pytrends
