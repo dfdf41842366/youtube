@@ -1,6 +1,6 @@
 streamlit
-transformers
-torch==2.0.0+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+transformers>=4.30.0
+torch>=2.5.0
 sentence-transformers
 scikit-learn
 pandas
